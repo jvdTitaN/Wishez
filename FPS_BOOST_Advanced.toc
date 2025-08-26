@@ -1,0 +1,9 @@
+## Interface: 110205
+## Title: FPS BOOST Advanced
+## Notes: FPS optimization profiles + overlay
+## Author: jvdTitaN (improved)
+## Version: 3.3.0
+## SavedVariables: JVDTITAN_FPS_DB
+
+main.lua
+options.lua
